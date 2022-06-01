@@ -1,0 +1,17 @@
+{
+  "name": "bestand_knowledge",
+  "version": "1.0.0",
+  "description": "music_school_sato",
+  "private": true,
+  "author": "BESTAND Co. Ltd.",
+  "license": "GPL-2.0-or-later",
+  "keywords": [],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "upload": "hs upload ./ bestand_knowledge"
+  },
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}

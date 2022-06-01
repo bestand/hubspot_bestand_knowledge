@@ -15,7 +15,7 @@
       "controlling_value_regex": "true",
       "operator": "EQUAL"
     },
-    "default": "Prev"
+    "default": ""
   },
   {
     "label": "Next label",
@@ -26,7 +26,7 @@
       "controlling_value_regex": "true",
       "operator": "EQUAL"
     },
-    "default": "Next"
+    "default": ""
   },
   {
     "label": "Show first and last links",
@@ -44,7 +44,7 @@
       "controlling_value_regex": "true",
       "operator": "EQUAL"
     },
-    "default": "First"
+    "default": ""
   },
   {
     "label": "Last label",
@@ -55,7 +55,7 @@
       "controlling_value_regex": "true",
       "operator": "EQUAL"
     },
-    "default": "Last"
+    "default": ""
   },
   {
     "label": "Styles",

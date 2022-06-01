@@ -1,0 +1,14 @@
+{
+  "label": "Search results japanese",
+  "css_assets": [],
+  "js_assets": [],
+  "external_js": [],
+  "global": false,
+  "host_template_types": ["PAGE"],
+  "icon": "../../images/module-icons/ellipses.svg",
+  "other_assets": [],
+  "smart_type": "NOT_SMART",
+  "tags": [],
+  "master_language": "ja",
+  "is_available_for_new_content": true
+}

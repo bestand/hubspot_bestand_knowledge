@@ -1,0 +1,9 @@
+[
+  {
+    "label": "No_results",
+    "name": "no_results",
+    "id": "no_results",
+    "type": "text",
+    "default": "検索結果が見つかりませんでした"
+  }
+]

@@ -1,0 +1,16 @@
+:root {
+  --theme-color1: #294B63;
+  --theme-color2: #3891BA;
+  --theme-color3: #BAC7C3;
+  --theme-color4: #ED652B;
+  --theme-color5: #F8F9F9;
+
+  --white       : #ffffff;
+  --font-size-xs: 0.75rem;
+  --font-size-s : 0.9rem;
+  --font-size-m : 1.0rem;
+  --font-size-l : 1.5rem;
+  --font-size-xl: 2.5rem;
+  --transparent : rgba(0, 0, 0, 0);
+
+}

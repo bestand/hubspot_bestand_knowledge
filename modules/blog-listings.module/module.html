@@ -150,13 +150,13 @@
 {# Blog author listing header #}
 
 {% if blog_author %}
-  <h2 class="blog-author-heading">{{ module.blog_author_listing.subheading }} {{ blog_author.display_name }}:</h2>
+  <h4 class="blog-author-heading">{{ module.blog_author_listing.subheading }} {{ blog_author.display_name }}:</h4>
 {% endif %}
 
 {# Blog tag listing header #}
 
 {% if tag %}
-  <h2 class="blog-tag-heading">{{ module.blog_tag_listing.subheading }} {{ page_meta.html_title|split(" | ")|last }}:</h2>
+  <h4 class="blog-tag-heading">{{ module.blog_tag_listing.subheading }} {{ page_meta.html_title|split(" | ")|last }}:</h4>
 {% endif %}
 
 {# Blog listing #}
@@ -194,7 +194,7 @@
         {# Title #}
 
         {% if module.title %}
-          <h2 class="blog-index__post-title"><a class="blog-index__post-title-link" href="{{ content.absolute_url }}">{{ content.name }}</a></h2>
+          <h3 class="blog-index__post-title"><a class="blog-index__post-title-link" href="{{ content.absolute_url }}">{{ content.name }}</a></h3>
         {% endif %}
 
         {# Author #}

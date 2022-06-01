@@ -1,0 +1,11 @@
+footer {
+  height          : 100px;
+  background-color: var(--theme-color1);
+}
+
+.copyright p{
+  color: var(--white);
+  font-size: var(--font-size-s);
+  text-align: center;
+  padding-top: 40px;
+}
