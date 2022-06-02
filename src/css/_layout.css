@@ -1,12 +1,10 @@
-.content-wrapper {
-  margin: 0;
-  padding: 0;
-}
-
-@media screen and (min-width: 1380px) {
-  .content-wrapper {
-    padding: 0;
-  }
+section.content-wrapper {
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .dnd-section > .row-fluid {
